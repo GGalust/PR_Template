@@ -1,10 +1,3 @@
-Branch Name - [PROJECT NAME]-[NUMBER] (ex. COG-1065)
-PR Title - [BRANCH NAME] : [JIRA TICKET TITLE]  (ex. [COG-1065] : This is the Jira Ticket title)
-
-
-
-
-
 # Description
 
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
@@ -70,14 +63,3 @@ Please describe the tests that you ran to verify your changes. Provide instructi
 | --------------------- | ---------------- | --------------- |
 
 | _Name of the feature_ | _Before PNG/GIF_ | _After PNG/GIF_ |
-
-
-
-
-
-PR Conventions towards UAT and Live branches
-
-
-PR Title - [BRANCH NAME (FROM)] - [BRANCH NAME (TO)]  (ex. DEV->UAT)
-
-PR Description - List of the branches that should be merged to the uat or master, comma separated(ex. COG-1067, COG-1425)
