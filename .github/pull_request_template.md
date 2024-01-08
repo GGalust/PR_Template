@@ -3,13 +3,9 @@
 Please include a summary of the changes and the related issue. Please also include relevant motivation and context. List any dependencies that are required for this change.
 
 
-
 Fixes # (issue)
 
 [link to ticket in Jira][^1]
-
-
-
 
 
 
@@ -17,57 +13,36 @@ Fixes # (issue)
 
 Please delete options that are not relevant.
 
+- [ ] Bug fix (non-breaking change which fixes an issue)
 
+- [ ] New feature (non-breaking change which adds functionality)
 
-* [ ] Bug fix (non-breaking change which fixes an issue)
+- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
 
-* [ ] New feature (non-breaking change which adds functionality)
-
-* [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-
-* [ ] This change requires a documentation update
+- [ ] This change requires a documentation update
 
 
 
 ## Checklist
 
-* [ ] My code follows the style guidelines of this project
+> [!IMPORTANT]
+> Options marked with required flag should be passed before sending the PR to review.
 
-* [ ] I have performed a self-review of my code
 
-* [ ] I have commented my code, particularly in hard-to-understand areas
+- [ ] My code follows the style guidelines of this project (required)
+
+- [ ] I have performed a self-review of my code (required)
+
+- [ ] I have commented my code, particularly in hard-to-understand areas (optional)
  
-* [ ] I have made corresponding changes to the documentation
+- [ ] I have made corresponding changes to the documentation (optional)
 
-* [ ] My changes generate no new warnings
-
-
-
-Can be added in the future
-
-* [ ] I have added tests that prove my fix is effective or that my feature works
-
-* [ ] New and existing unit tests pass locally with my changes
-
-@GGalust
-Signed-off-by: `Your Name <your@email.example.org>`
+- [ ] My changes generate no new warnings (required)
 
 
 ## How This Should Be Tested?
 
 Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration
-
-
-
-## Before & after
-
-**DELETE ME** If you have made any UI changes, please fill in any relevant before/after screenshots & GIFs
-
-| Feature               | Before           | After           |
-
-| --------------------- | ---------------- | --------------- |
-
-| _Name of the feature_ | _Before PNG/GIF_ | _After PNG/GIF_ |
 
 
 
